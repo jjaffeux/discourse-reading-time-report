@@ -1,0 +1,9 @@
+en:
+  site_settings:
+    discourse_reading_time_report:
+      discourse_reading_time_report_enabled: Allow discourse-reading-time-report?
+  reports:
+    reading_time:
+      title: "Reading time"
+      xaxis: "Day"
+      yaxis: "Time spent reading"

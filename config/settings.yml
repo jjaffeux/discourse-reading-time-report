@@ -1,0 +1,4 @@
+plugins:
+  discourse_reading_time_report_enabled:
+    default: true
+    client: true
